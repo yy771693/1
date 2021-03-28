@@ -1,0 +1,4 @@
+D:\C#\课后案例\ConsoleExample2\ConsoleExample2\bin\Release\ConsoleExample2.exe
+D:\C#\课后案例\ConsoleExample2\ConsoleExample2\bin\Release\ConsoleExample2.pdb
+D:\C#\课后案例\ConsoleExample2\ConsoleExample2\obj\x86\Release\ConsoleExample2.exe
+D:\C#\课后案例\ConsoleExample2\ConsoleExample2\obj\x86\Release\ConsoleExample2.pdb
